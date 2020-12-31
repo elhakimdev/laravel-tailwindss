@@ -6,8 +6,11 @@ an admin panel dashboard front end scaffolding for laravel build with Tailwind c
 
 ## Fix 
 - install & setup & configure tailwind css on Laravel using npm &  laravel mix
-- finish top-nav components
-- finish sidebar-components
+- finish top-nav components & rebuild from scratch
+- finish sidebar-components $ rebuild from scratch
+- responsive mobile layout
+- finish card container layout
 
 ## to-do
 - build layout container 
+- apply DOM manipulation
